@@ -1,0 +1,14 @@
+.flight-header {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.header {
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.buttonContainer button {
+    margin-bottom: 3%;
+}
